@@ -1,0 +1,15 @@
+= GPT Team
+
+== Overview
+
+A tool to define and create a custom team of expert GPT agents for more powerful AI automated assistance
+
+== Current Supported Use Cases
+
+- None
+
+== Planned Future Use Cases
+
+- Microservice generator
+- Project Document Author
+- Project Unit Tester
